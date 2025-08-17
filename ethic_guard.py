@@ -1,0 +1,1 @@
+print('Ethic guard placeholder')
